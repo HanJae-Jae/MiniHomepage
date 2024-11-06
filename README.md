@@ -24,7 +24,6 @@
 - 싫어하는 음식 : 견과류
 
 ![pika](https://github.com/user-attachments/assets/0a8a34ba-1395-43f4-967c-577469131920)
-![단어사전](https://github.com/user-attachments/assets/eeb3f5a2-5cc7-4d01-89c5-703459f516e1)
 
 
 ## 푸터 추가
